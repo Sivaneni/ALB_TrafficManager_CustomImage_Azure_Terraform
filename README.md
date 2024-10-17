@@ -4,11 +4,9 @@ This creates a Azure Load balacer with 3 virtual machines installed with ngnix w
 
 Below ip address 98.70.123.173 is front-end ip of ALB and page display showing is of one of the nginx VM out of 3.
 
-![image](https://github.com/user-attachments/assets/565e3fd4-956a-4532-b379-64d4e606f970)
-
-
-
-
-
-
 ```
+
+
+![image](https://github.com/user-attachments/assets/d9fa8ed6-71b4-4702-9d45-b5beb79254c6)
+
+

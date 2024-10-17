@@ -10,3 +10,4 @@ Below ip address 98.70.123.173 is front-end ip of ALB and page display showing i
 ![image](https://github.com/user-attachments/assets/d9fa8ed6-71b4-4702-9d45-b5beb79254c6)
 
 
+![image](https://github.com/user-attachments/assets/ce0c3863-b984-41e1-8b69-a47730c52258)

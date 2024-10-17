@@ -1,7 +1,7 @@
 .terraform
 backend.tf
 terraform.tfstate
-terraform.tfstate.backup
+terraform.tfstate.*
 terraform.tfvars
 id_rsa
 id_rsa.pub
